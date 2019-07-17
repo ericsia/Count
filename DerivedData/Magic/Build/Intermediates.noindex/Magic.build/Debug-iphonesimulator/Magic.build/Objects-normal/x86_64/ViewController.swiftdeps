@@ -1,0 +1,728 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "5Magic14ViewControllerC"
+provides-member:
+- ["5Magic14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "cs"
+- "jsuan"
+- "sj"
+- "viewDidAppear"
+- "viewDidLoad"
+- "xyzb"
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "Calendar"
+- !private "Date"
+- !private "Double"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "String"
+- !private "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UILabel"
+- "UISwitch"
+- "UITextField"
+- "UIViewController"
+- !private "UnicodeScalarType"
+- "ViewController"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "init"]
+- !private ["SB", "init"]
+- !private ["So15CALayerDelegateP", "isOn"]
+- !private ["So15CALayerDelegateP", "setOn"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Calendar"]
+- !private ["s7CVarArgP", "Date"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "cs"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isOn"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "setOn"]
+- !private ["s7CVarArgP", "sj"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "xyzb"]
+- !private ["10Foundation8CalendarV", "component"]
+- !private ["10Foundation8CalendarV", "current"]
+- !private ["10Foundation8CalendarV", "dateComponents"]
+- !private ["Sl", "init"]
+- !private ["SL", "addingTimeInterval"]
+- !private ["SL", "init"]
+- !private ["10Foundation8CalendarV9ComponentO", "hour"]
+- !private ["10Foundation8CalendarV9ComponentO", "minute"]
+- !private ["10Foundation8CalendarV9ComponentO", "weekday"]
+- !private ["s28CustomDebugStringConvertibleP", "Calendar"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "addingTimeInterval"]
+- !private ["s28CustomDebugStringConvertibleP", "component"]
+- !private ["s28CustomDebugStringConvertibleP", "cs"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "dateComponents"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isOn"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "setOn"]
+- !private ["s28CustomDebugStringConvertibleP", "sj"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "weekday"]
+- !private ["s28CustomDebugStringConvertibleP", "xyzb"]
+- !private ["s17CustomReflectableP", "addingTimeInterval"]
+- !private ["s17CustomReflectableP", "component"]
+- !private ["s17CustomReflectableP", "current"]
+- !private ["s17CustomReflectableP", "dateComponents"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isOn"]
+- !private ["s17CustomReflectableP", "setOn"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "weekday"]
+- !private ["s23CustomStringConvertibleP", "Calendar"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "addingTimeInterval"]
+- !private ["s23CustomStringConvertibleP", "component"]
+- !private ["s23CustomStringConvertibleP", "cs"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "dateComponents"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isOn"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "setOn"]
+- !private ["s23CustomStringConvertibleP", "sj"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "weekday"]
+- !private ["s23CustomStringConvertibleP", "xyzb"]
+- !private ["10Foundation4DateV", "addingTimeInterval"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation14DateComponentsV", "weekday"]
+- !private ["Se", "addingTimeInterval"]
+- !private ["Se", "component"]
+- !private ["Se", "current"]
+- !private ["Se", "dateComponents"]
+- !private ["Se", "init"]
+- !private ["Se", "isOn"]
+- !private ["Se", "setOn"]
+- !private ["Se", "text"]
+- !private ["Se", "weekday"]
+- !private ["Sd", "init"]
+- !private ["SE", "addingTimeInterval"]
+- !private ["SE", "component"]
+- !private ["SE", "current"]
+- !private ["SE", "dateComponents"]
+- !private ["SE", "init"]
+- !private ["SE", "isOn"]
+- !private ["SE", "setOn"]
+- !private ["SE", "text"]
+- !private ["SE", "weekday"]
+- !private ["SQ", "Calendar"]
+- !private ["SQ", "Date"]
+- !private ["SQ", "Double"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIAlertAction"]
+- !private ["SQ", "UIAlertController"]
+- ["SQ", ""]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "addingTimeInterval"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "component"]
+- !private ["SQ", "cs"]
+- !private ["SQ", "current"]
+- !private ["SQ", "dateComponents"]
+- !private ["SQ", "default"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "hour"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isOn"]
+- !private ["SQ", "minute"]
+- !private ["SQ", "present"]
+- !private ["SQ", "setOn"]
+- !private ["SQ", "sj"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "weekday"]
+- !private ["SQ", "xyzb"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "isOn"]
+- !private ["s23ExpressibleByNilLiteralP", "setOn"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "Calendar"]
+- !private ["SH", "Date"]
+- !private ["SH", "Double"]
+- !private ["SH", "String"]
+- !private ["SH", "UIAlertAction"]
+- !private ["SH", "UIAlertController"]
+- ["SH", ""]
+- !private ["SH", "addAction"]
+- !private ["SH", "addingTimeInterval"]
+- !private ["SH", "alert"]
+- !private ["SH", "cancel"]
+- !private ["SH", "component"]
+- !private ["SH", "cs"]
+- !private ["SH", "current"]
+- !private ["SH", "dateComponents"]
+- !private ["SH", "default"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "hour"]
+- !private ["SH", "init"]
+- !private ["SH", "isOn"]
+- !private ["SH", "minute"]
+- !private ["SH", "present"]
+- !private ["SH", "setOn"]
+- !private ["SH", "sj"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "weekday"]
+- !private ["SH", "xyzb"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "Calendar"]
+- !private ["So8NSCodingP", "Date"]
+- !private ["So8NSCodingP", "Double"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "cs"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isOn"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "setOn"]
+- !private ["So8NSCodingP", "sj"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "xyzb"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "Calendar"]
+- !private ["So26NSExtensionRequestHandlingP", "Date"]
+- !private ["So26NSExtensionRequestHandlingP", "Double"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "cs"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "sj"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "xyzb"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "Calendar"]
+- !private ["So8NSObjectC", "Date"]
+- !private ["So8NSObjectC", "Double"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UISwitch"]
+- ["So8NSObjectC", "UITextField"]
+- !private ["So8NSObjectC", "addAction"]
+- ["So8NSObjectC", "cs"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isOn"]
+- ["So8NSObjectC", "jsuan"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "setOn"]
+- ["So8NSObjectC", "sj"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "xyzb"]
+- !private ["So8NSObjectP", "Calendar"]
+- !private ["So8NSObjectP", "Date"]
+- !private ["So8NSObjectP", "Double"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "cs"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isOn"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "setOn"]
+- !private ["So8NSObjectP", "sj"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "xyzb"]
+- !private ["Sj", "init"]
+- !private ["Sq", "isOn"]
+- !private ["Sq", "setOn"]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- !private ["SY", "alert"]
+- !private ["SY", "cancel"]
+- !private ["SY", "default"]
+- !private ["10Foundation20ReferenceConvertibleP", "addingTimeInterval"]
+- !private ["10Foundation20ReferenceConvertibleP", "component"]
+- !private ["10Foundation20ReferenceConvertibleP", "current"]
+- !private ["10Foundation20ReferenceConvertibleP", "dateComponents"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "weekday"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["So22UIAlertControllerStyleV", "alert"]
+- !private ["So18UIAlertActionStyleV", "cancel"]
+- !private ["So18UIAlertActionStyleV", "default"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isOn"]
+- !private ["So29UIAccessibilityIdentificationP", "setOn"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "dismiss"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["So12UIAppearanceP", "isOn"]
+- !private ["So12UIAppearanceP", "setOn"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Calendar"]
+- !private ["So21UIAppearanceContainerP", "Date"]
+- !private ["So21UIAppearanceContainerP", "Double"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "cs"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isOn"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "setOn"]
+- !private ["So21UIAppearanceContainerP", "sj"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "xyzb"]
+- !private ["So18UIContentContainerP", "Calendar"]
+- !private ["So18UIContentContainerP", "Date"]
+- !private ["So18UIContentContainerP", "Double"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "cs"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "sj"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "xyzb"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "isOn"]
+- !private ["So9UIControlC", "setOn"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "isOn"]
+- !private ["So17UICoordinateSpaceP", "setOn"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "isOn"]
+- !private ["So13UIDynamicItemP", "setOn"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Calendar"]
+- !private ["So18UIFocusEnvironmentP", "Date"]
+- !private ["So18UIFocusEnvironmentP", "Double"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "cs"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isOn"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "setOn"]
+- !private ["So18UIFocusEnvironmentP", "sj"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "xyzb"]
+- !private ["So11UIFocusItemP", "isOn"]
+- !private ["So11UIFocusItemP", "setOn"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "isOn"]
+- !private ["So20UIFocusItemContainerP", "setOn"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Calendar"]
+- !private ["So30UIPasteConfigurationSupportingP", "Date"]
+- !private ["So30UIPasteConfigurationSupportingP", "Double"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "cs"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isOn"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "setOn"]
+- !private ["So30UIPasteConfigurationSupportingP", "sj"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "xyzb"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "Calendar"]
+- !private ["So11UIResponderC", "Date"]
+- !private ["So11UIResponderC", "Double"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UISwitch"]
+- ["So11UIResponderC", "UITextField"]
+- !private ["So11UIResponderC", "addAction"]
+- ["So11UIResponderC", "cs"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isOn"]
+- ["So11UIResponderC", "jsuan"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "setOn"]
+- ["So11UIResponderC", "sj"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "xyzb"]
+- !private ["So30UIResponderStandardEditActionsP", "Calendar"]
+- !private ["So30UIResponderStandardEditActionsP", "Date"]
+- !private ["So30UIResponderStandardEditActionsP", "Double"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "cs"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isOn"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "setOn"]
+- !private ["So30UIResponderStandardEditActionsP", "sj"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "xyzb"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dismiss"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "Calendar"]
+- !private ["So16UIStateRestoringP", "Date"]
+- !private ["So16UIStateRestoringP", "Double"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "cs"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "sj"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "xyzb"]
+- !private ["So8UISwitchC", "isOn"]
+- !private ["So8UISwitchC", "setOn"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "Calendar"]
+- !private ["So18UITraitEnvironmentP", "Date"]
+- !private ["So18UITraitEnvironmentP", "Double"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "cs"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isOn"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "setOn"]
+- !private ["So18UITraitEnvironmentP", "sj"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "xyzb"]
+- !private ["So23UIUserActivityRestoringP", "Calendar"]
+- !private ["So23UIUserActivityRestoringP", "Date"]
+- !private ["So23UIUserActivityRestoringP", "Double"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertAction"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "cs"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isOn"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "setOn"]
+- !private ["So23UIUserActivityRestoringP", "sj"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "xyzb"]
+- !private ["So6UIViewC", "isOn"]
+- !private ["So6UIViewC", "setOn"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "Calendar"]
+- !private ["So16UIViewControllerC", "Date"]
+- !private ["So16UIViewControllerC", "Double"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UISwitch"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "cs"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "jsuan"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "sj"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "xyzb"]
+- ["5Magic14ViewControllerC", "Bool"]
+- !private ["5Magic14ViewControllerC", "Calendar"]
+- !private ["5Magic14ViewControllerC", "Date"]
+- !private ["5Magic14ViewControllerC", "Double"]
+- !private ["5Magic14ViewControllerC", "String"]
+- !private ["5Magic14ViewControllerC", "UIAlertAction"]
+- !private ["5Magic14ViewControllerC", "UIAlertController"]
+- ["5Magic14ViewControllerC", "UILabel"]
+- ["5Magic14ViewControllerC", "UISwitch"]
+- ["5Magic14ViewControllerC", "UITextField"]
+- ["5Magic14ViewControllerC", "cs"]
+- ["5Magic14ViewControllerC", "deinit"]
+- ["5Magic14ViewControllerC", "init"]
+- ["5Magic14ViewControllerC", "jsuan"]
+- !private ["5Magic14ViewControllerC", "present"]
+- ["5Magic14ViewControllerC", "sj"]
+- ["5Magic14ViewControllerC", "viewDidAppear"]
+- ["5Magic14ViewControllerC", "viewDidLoad"]
+- ["5Magic14ViewControllerC", "xyzb"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "addingTimeInterval"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Calendar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Double"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cs"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sj"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "xyzb"]
+- !private ["10Foundation14_MutableBoxingP", "component"]
+- !private ["10Foundation14_MutableBoxingP", "current"]
+- !private ["10Foundation14_MutableBoxingP", "dateComponents"]
+- !private ["10Foundation14_MutableBoxingP", "weekday"]
+- !private ["s21_ObjectiveCBridgeableP", "addingTimeInterval"]
+- !private ["s21_ObjectiveCBridgeableP", "component"]
+- !private ["s21_ObjectiveCBridgeableP", "current"]
+- !private ["s21_ObjectiveCBridgeableP", "dateComponents"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isOn"]
+- !private ["s21_ObjectiveCBridgeableP", "setOn"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "weekday"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isOn"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setOn"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "SB"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "10Foundation8CalendarV"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation8CalendarV9ComponentO"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "10Foundation14DateComponentsV"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So8UISwitchC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "5Magic14ViewControllerC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation14_MutableBoxingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f5ff570a12cab1dd7d4bab686f301cb2"

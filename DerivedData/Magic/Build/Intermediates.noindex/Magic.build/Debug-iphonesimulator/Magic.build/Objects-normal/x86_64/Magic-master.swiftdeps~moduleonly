@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0023c88811114229ea43e58d3e533048"
+build_time: [1562448218, 589920000]
+inputs:
+  "/Users/ericsiazhipeng/Desktop/Count/Magic/Magic/ViewController.swift": [1562448218, 219538005]
+  "/Users/ericsiazhipeng/Desktop/Count/Magic/Magic/AppDelegate.swift": [1562000328, 763499112]
