@@ -1,6 +1,9 @@
 # Count
 This code/project is written free to everyone who use this app.
 
+screenshot: https://github.com/ericsia/Count/raw/master/Count.png
+Download: https://github.com/ericsia/Count/raw/master/Count.ipa
+
 Background overview: 
 given a game named NNN task is to kill zombie with other gamers, the time they online is random except during 5pm to 7pm. 
 In each pk with zombie the time to kill a group of zombies is relative constant depend on other player ammo power (example 1 round is around 0.6second). 
