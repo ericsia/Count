@@ -4,6 +4,7 @@ This code/project is written free to everyone who use this app.
 ![alt text](https://github.com/ericsia/Count/raw/master/Count.png)
 
 Download: https://github.com/ericsia/Count/releases/download/1/Count.ipa
+
 Code: https://github.com/ericsia/Count/archive/1.zip
 
 Background overview: 
