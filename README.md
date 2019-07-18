@@ -1,7 +1,7 @@
 # Count
 This code/project is written free to everyone who use this app.
 
-screenshot: https://github.com/ericsia/Count/raw/master/Count.png
+![alt text](https://github.com/ericsia/Count/raw/master/Count.png)
 Download: https://github.com/ericsia/Count/raw/master/Count.ipa
 
 Background overview: 
