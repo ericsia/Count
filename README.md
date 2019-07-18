@@ -7,6 +7,8 @@ Download: https://github.com/ericsia/Count/releases/download/1/Count.ipa
 
 Code: https://github.com/ericsia/Count/archive/1.zip
 
+
+
 Background overview: 
 given a game named NNN task is to kill zombie with other gamers, the time they online is random except during 5pm to 7pm. 
 In each pk with zombie the time to kill a group of zombies is relative constant depend on other player ammo power (example 1 round is around 0.6second). 
